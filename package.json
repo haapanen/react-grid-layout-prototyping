@@ -1,0 +1,22 @@
+{
+  "name": "ag-grid-cell-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server"
+  },
+  "dependencies": {
+    "@types/react": "^15.0.14",
+    "@types/react-dom": "^0.14.23",
+    "@types/uuid": "^2.0.29",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-grid-layout": "^0.14.3",
+    "ts-loader": "^2.0.1",
+    "typescript": "^2.2.1",
+    "uuid": "^3.0.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
